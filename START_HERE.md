@@ -5,6 +5,10 @@ Track B builds the income for the NEXT 1-3 months. Do both.
 
 If you only read one file, it's this one. It points to the rest.
 
+>>> FEELING OVERWHELMED? Skip everything below and open DAILY_SPARK.md
+    — it's just ONE tiny 15-min task a day. Start there. Come back here
+    when you want the big picture.
+
 ====================================================================
 TRACK A — KEEP THE HOUSE (this week, $0 cost, do FIRST)
 ====================================================================
