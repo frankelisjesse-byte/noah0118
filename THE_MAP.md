@@ -138,6 +138,7 @@ look like the "hard" choice. Here's how we go AROUND all of that:
 =====================================================================
 THE ORDER (if you forget everything else)
 =====================================================================
+  0. BOX 5 — publish the course on Gumroad (NO ID needed, open TODAY)
   1. BOX 1 — verify Cash App, get routing/account, catch the money safe
   2. BOX 2 — start the ID ladder (birth cert → SS card → state ID)
   3. BOX 3 — 211 + SNAP + VITA + sell items = cash this week
