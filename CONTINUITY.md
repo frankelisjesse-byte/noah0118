@@ -202,6 +202,17 @@ extras + character prompt + paired images done. If user wants more:
   INSTALLED), content-calendar-os (KEYLESS → INSTALLED). Both installed to
   ~/.hermes/skills/. Big unlock: ffmpeg present → can assemble real video now.
 
+- 2026-07-22 (AUTONOMOUS, user said "yea all of it, you take control"):
+  GitHub confirmed live + working — repo frankelisjesse-byte/noah0118 (private),
+  auth = SSH (authenticated, not PAT as memory guessed). Committed + pushed the
+  full build. Then built 3 files: SAME_WEEK_CASH_PLAN.md (real-world Track A —
+  forbearance/211/SNAP/EITC-VITA/SGA-safe cash, protects house + SSD),
+  rewrote CODESPACE_PUSH_GUIDE.md (repo already pushed, so now VM spin-up +
+  phone<->GitHub sync steps), START_HERE.md (single top-level map tying Track A
+  keep-the-house + Track B launch-NOVA). ~84 files. All pushed to GitHub.
+  NEXT: user's hands only — Fanvue+passport, heat render off-chat, post daily,
+  Track A phone calls this week. Codespace VM = verify tax figures + research.
+
 =================================================================
 RESUME INSTRUCTION (one line on new session)
 =================================================================
