@@ -213,6 +213,32 @@ extras + character prompt + paired images done. If user wants more:
   NEXT: user's hands only — Fanvue+passport, heat render off-chat, post daily,
   Track A phone calls this week. Codespace VM = verify tax figures + research.
 
+- 2026-07-22 (AUTONOMOUS, user at SSD/doctor appt w/ kids, gave full reins):
+  BIG LIFE UPDATE from user: house was SOLD, ~5 months to find a new place.
+  Opioid-case settlement HIT — expects ~$7,500 (mid of $5-10k). Needs to catch
+  it safely; struggling w/ NO photo ID (bank/apartment/background-check walls).
+  Trying online bank first (no-ID). Built the SURVIVAL layer:
+  - THE_MAP.md — child-simple step map. Box1 catch settlement safe (verify Cash
+    App, $25k verified limit so $7.5k fits; ask lawyer for paper CHECK backup),
+    Box2 ID ladder (birth cert->SS card free 1-800-772-1213->state ID; 211 free
+    ID program), Box3 cash-this-week (211/SNAP/VITA/sell), Box4 home-that-says-yes
+    (private mom&pop landlords + rooms, skip big-co credit checks; SSD income +
+    settlement cash up front = strong tenant), Box5 no-ID income door.
+  - BANK_NO_ID_CHEATSHEET.md — Chime/Varo/GO2bank open w/ SSN often no photo ID;
+    credit union w/ SS card + SSD benefits letter; move money to SAVINGS = move-in
+    war chest. Cash App = catcher's mitt not vault.
+  - SAME_WEEK_CASH_PLAN.md + START_HERE.md (built prior turn same session).
+  - NO-ID INCOME: PUBLISH_COURSE_TODAY.md (Gumroad needs only email+payout, no
+    photo ID) + build_course_bundle.py -> COURSE_BUNDLE.html (sellable, de-NOVA'd:
+    Course01 + templates + tax knowledge; open on phone -> Print -> Save as PDF).
+    Copied to ~/storage/downloads/NOVA_course/. This is the money door open TODAY
+    (NOVA/Fanvue needs passport; this doesn't).
+  All committed + pushed to GitHub (repo noah0118, SSH working). Web STILL dead
+  on phone (Rust/NDK, retested) — tax figures need IRS.gov verify on Codespace VM.
+  NEXT when user back: help live w/ Box1 (verify Cash App / open Chime) once
+  settlement is go; optionally publish Gumroad course. Emotional: user opened up
+  re: finally having someone in their corner — keep the team/steady tone.
+
 =================================================================
 RESUME INSTRUCTION (one line on new session)
 =================================================================
