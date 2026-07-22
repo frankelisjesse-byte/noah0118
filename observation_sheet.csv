@@ -1,0 +1,44 @@
+date,platform,post_id,var_voice,var_smile,var_outfit,var_motion,var_caption,var_hook,reach,profile_visits,link_clicks,fanvue_visits,new_subs,saves,shares,comments,completion_pct,notes
+2026-08-01,IG,EXAMPLE_DELETE,V1,S1-soft,O1-athleisure,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,DELETE THIS ROW. LEGEND: voice V1/V3/V4=caption batch; smile S1-soft S2-smirk S3-seriousfun; outfit O1-athleisure O2-hoodie O3-knit O4-yellow-tee O5-pjs O6-linen; motion M1-still M2-dance M3-talking-body M4-floor M5-mirror; caption C1=question-close(always); hook H1-quirky H2-relatable H3-yearning. Score: conv=new_subs per 1k reach (link_clicks x new_subs); reach_score=saves+shares.
+2026-08-01,IG,D1_IG_P1,V1,S1-soft,O2-hoodie,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P1 rocks
+2026-08-01,TT,D1_TT_P1,V1,S1-soft,O2-hoodie,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P1 rocks
+2026-08-02,IG,D2_IG_P2,V1,S2-smirk,O1-athleisure,M2-dance,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P2 flamingo
+2026-08-02,TT,D2_TT_P2,V1,S2-smirk,O1-athleisure,M2-dance,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P2 flamingo
+2026-08-03,IG,D3_IG_P7,V1,S2-smirk,O5-pjs,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P7 brinner
+2026-08-03,TT,D3_TT_P7,V1,S2-smirk,O5-pjs,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P7 brinner
+2026-08-04,IG,D4_IG_P12,V3,S1-soft,O3-knit,M4-floor,C1-question,H3-yearning,0,0,0,0,0,0,0,0,0,P12 rest
+2026-08-04,TT,D4_TT_P12,V3,S1-soft,O3-knit,M4-floor,C1-question,H3-yearning,0,0,0,0,0,0,0,0,0,P12 rest
+2026-08-06,IG,D6_IG_P3,V1,S1-soft,O3-knit,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P3 jar
+2026-08-06,TT,D6_TT_P3,V1,S1-soft,O3-knit,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P3 jar
+2026-08-08,IG,D8_IG_P4,V1,S2-smirk,O1-athleisure,M5-mirror,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P4 reflection
+2026-08-08,TT,D8_TT_P4,V1,S2-smirk,O1-athleisure,M5-mirror,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P4 reflection
+2026-08-09,IG,D9_IG_P5,V1,S3-seriousfun,O1-athleisure,M3-talking-body,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P5 body-parts
+2026-08-09,TT,D9_TT_P5,V1,S3-seriousfun,O1-athleisure,M3-talking-body,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P5 body-parts
+2026-08-10,IG,D10_IG_P6,V1,S1-soft,O4-yellow-tee,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P6 color
+2026-08-10,TT,D10_TT_P6,V1,S1-soft,O4-yellow-tee,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P6 color
+2026-08-11,IG,D11_IG_P8,V1,S1-soft,O2-hoodie,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P8 cat
+2026-08-11,TT,D11_TT_P8,V1,S1-soft,O2-hoodie,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P8 cat
+2026-08-12,IG,D12_IG_P9,V3,S3-seriousfun,O6-linen,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P9 plant
+2026-08-12,TT,D12_TT_P9,V3,S3-seriousfun,O6-linen,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P9 plant
+2026-08-13,IG,D13_IG_P10,V3,S1-soft,O2-hoodie,M4-floor,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P10 phone-break
+2026-08-13,TT,D13_TT_P10,V3,S1-soft,O2-hoodie,M4-floor,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P10 phone-break
+2026-08-14,IG,D14_IG_P11,V3,S1-soft,O1-athleisure,M2-dance,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P11 dance
+2026-08-14,TT,D14_TT_P11,V3,S1-soft,O1-athleisure,M2-dance,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P11 dance
+2026-08-15,IG,D15_IG_P13,V4,S3-seriousfun,O1-athleisure,M3-talking-body,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P13 podcast
+2026-08-15,TT,D15_TT_P13,V4,S3-seriousfun,O1-athleisure,M3-talking-body,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P13 podcast
+2026-08-16,IG,D16_IG_P14,V4,S2-smirk,O5-pjs,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P14 carbs
+2026-08-16,TT,D16_TT_P14,V4,S2-smirk,O5-pjs,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P14 carbs
+2026-08-17,IG,D17_IG_P15,V4,S2-smirk,O1-athleisure,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P15 stain
+2026-08-17,TT,D17_TT_P15,V4,S2-smirk,O1-athleisure,M1-still,C1-question,H1-quirky,0,0,0,0,0,0,0,0,0,P15 stain
+2026-08-18,IG,D18_IG_P16,V4,S1-soft,O3-knit,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P16 soft-life
+2026-08-18,TT,D18_TT_P16,V4,S1-soft,O3-knit,M1-still,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P16 soft-life
+2026-08-19,IG,D19_IG_P17,V4,S2-smirk,O1-athleisure,M3-talking-body,C1-question,H3-yearning,0,0,0,0,0,0,0,0,0,P17 anklet
+2026-08-19,TT,D19_TT_P17,V4,S2-smirk,O1-athleisure,M3-talking-body,C1-question,H3-yearning,0,0,0,0,0,0,0,0,0,P17 anklet
+2026-08-20,IG,D20_IG_P18,V4,S1-soft,O3-knit,M1-still,C1-question,H3-yearning,0,0,0,0,0,0,0,0,0,P18 moon
+2026-08-20,TT,D20_TT_P18,V4,S1-soft,O3-knit,M1-still,C1-question,H3-yearning,0,0,0,0,0,0,0,0,0,P18 moon
+2026-08-21,IG,D21_IG_P19,V3,S1-soft,O2-hoodie,M4-floor,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P19 grey
+2026-08-21,TT,D21_TT_P19,V3,S1-soft,O2-hoodie,M4-floor,C1-question,H2-relatable,0,0,0,0,0,0,0,0,0,P19 grey
+2026-08-05,FV,FV1,Vheat,S2-smirk,O1-athleisure,M1-still,C2-ppv,H4-heat,0,0,0,0,0,0,0,0,0,PPV drop $6 (heat set rendered off-chat)
+2026-08-07,FV,FV2,Vheat,S2-smirk,O1-athleisure,M1-still,C2-ppv,H4-heat,0,0,0,0,0,0,0,0,0,PPV drop $12 (heat set rendered off-chat)
+2026-08-10,FV,FV3,Vheat,S2-smirk,O1-athleisure,M1-still,C2-ppv,H4-heat,0,0,0,0,0,0,0,0,0,PPV drop $14 (heat set rendered off-chat)
+2026-08-15,FV,FV4,Vheat,S2-smirk,O1-athleisure,M1-still,C2-ppv,H4-heat,0,0,0,0,0,0,0,0,0,PPV drop $20 (heat set rendered off-chat)
