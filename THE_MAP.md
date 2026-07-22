@@ -46,8 +46,17 @@ Step 1f. CALL THE SETTLEMENT PEOPLE and ask ONE question:
     CHECK instead?" A check you can cash later once you have ID. A check
     can't be frozen by an app. This is your backup.
 
->>> IF YOU GET STUCK HERE, tell me the amount and what they said, and
-    I'll tell you the safest exact move. Don't guess. We check together.
+YOUR AMOUNT: ~$7,500 (middle of $5-10k). GOOD NEWS: a VERIFIED Cash App
+takes up to $25,000 — so $7,500 fits SAFELY, but ONLY if you verify
+first (Step 1a-1d above). Unverified = it can freeze. Verify first.
+
+BETTER THAN CASH APP (no photo ID needed): see BANK_NO_ID_CHEATSHEET.md
+— Chime / Varo / GO2bank open with SSN + info, often no photo ID, and
+give you a real savings account to guard the move-in money. Cash App is
+the backup catcher; a real bank/credit union is the vault.
+
+>>> IF YOU GET STUCK HERE, tell me what the screen says, and I'll tell
+    you the safest exact move. Don't guess. We check together.
 
 
 =====================================================================
