@@ -16,7 +16,7 @@ github.com → "+" (top right) → New repository
 =================================================================
 cd ~/ai_influencer
 git branch -M main
-git remote add origin git@github.com:<YOUR_USER>/nova-build.git
+git remote add origin git@github.com:frankelisjesse-byte/noah0118.git
 git push -u origin main
 (auth: GitHub may prompt for username + token. Use a fine-grained PAT with
  repo write access — NOT your account password. Generate at github.com →
